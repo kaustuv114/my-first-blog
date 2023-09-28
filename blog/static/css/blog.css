@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+article{
+    margin: 2%;
+}
+
+h4{
+    color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: whitesmoke;
+    background-color: skyblue;
+    padding: 5%;
+    vertical-align: middle;
+    line-height: 5%;
+    margin-top: 0;
+}
+h6{
+    font-style: italic;
+    color: gray;
+}
+a:visited{
+    color: rgb(252, 54, 54);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
